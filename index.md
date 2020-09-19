@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unofficial t MLMBSC website (for insiders only)
+title: Unofficial MLMBSC website (for insiders only)
 ---
 # Warning
 <img src="/unofficial/pictures/caution.jpg" width="50%">
