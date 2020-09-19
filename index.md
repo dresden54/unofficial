@@ -47,7 +47,7 @@ Every individual has a role to play for the betterment of our organisation
 
 
 # FAQ
-
+<img src="/unofficial/pictures/question.jpg" width="50%">
 * Why use Github pages ? Aren't you able to do a website ?
 ​If i was able to produce anything real do you think I would be such an expert in BS ? Want a more prefessional website.... Give me some $$ and i will do better.
 
