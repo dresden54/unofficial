@@ -2,6 +2,10 @@
 layout: default
 title: Unofficial MLMBSC website (for insiders only)
 ---
+<img src="/unofficial/pictures/caution.jpg" width="50%">
+
+# Warning
+This page is only for MLMBSC members. Do not share it with non MLMBSC certified people (especially people having decision power). You should only share the ["official" page](https://dresden54.github.io/official/) to non MLMBSC members 
 
 # MLMBSC Origin
 
@@ -39,8 +43,8 @@ Every individual has a role to play for the betterment of our organisation
 
 # FAQ
 
-* Why use Wix ? Aren't you able to do a website ?
-​If i was able to produce anything real do you think I would be such an expert in BS ? Want to contribute ? https://github.com/dresden54/MLMBSCS_Site 
+* Why use Github pages ? Aren't you able to do a website ?
+​If i was able to produce anything real do you think I would be such an expert in BS ? Want a more prefessional website.... Give me some $$ and i will do better.
 
 * Where can i buy the certifications
 You really understand the core of all good methodology....Make money ! It will comes soon. In the meantime you can still send me some ETH 0xA1ee0E8960e3041069500807C5Ceea01115F1cEc
