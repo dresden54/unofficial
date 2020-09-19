@@ -41,6 +41,7 @@ Every individual has a role to play for the betterment of our organisation
 * Organise training to grow our numbers.Your trainings have to be loved by people (even if they don't teach anything real). The MLMBSC Evangelist training will teach you how to achieve that.
 
 ## Agent
+<img src="/unofficial/pictures/agent.jpg" width="50%">
 * You saw the light. You just joined the big MLMBSC movement and can grow to another role after following the proper training.
 * You try to recruit other people to join us like any other MLM scheme. The MLMBSC Agent training has some tips on how to do that.
 
