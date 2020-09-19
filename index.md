@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Unofficial MLMBSC website (for insiders only)
+title: Unofficial t MLMBSC website (for insiders only)
 ---
+# Warning
 <img src="/unofficial/pictures/caution.jpg" width="50%">
 
-# Warning
 This page is only for MLMBSC members. Do not share it with non MLMBSC certified people (especially people having decision power). You should only share the ["official" page](https://dresden54.github.io/official/) to non MLMBSC members 
 
 # MLMBSC Origin
