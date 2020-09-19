@@ -5,7 +5,6 @@ title: Unofficial MLMBSC website (for insiders only)
 
 # MLMBSC Origin
 
-![Logo](/pictures/logo1.png | width=48)
 <img src="/unofficial/pictures/logo1.png" width="30%">
 
 MLMBSC was founded by MLM enthusiasts eager to profit on the trend of useless work certifications. If you work for a big company you probably know what we are talking about. All these methodologies/trainings that will supposedly improve your team productivity by 10 trillion percent but only end up with overly complicated processes and useless layers in the organisation.That’s why we decided to create a new methodology called MLMBSC to be part of this revolution.
