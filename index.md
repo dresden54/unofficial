@@ -17,6 +17,7 @@ MLMBSC was founded by MLM enthusiasts eager to profit on the trend of useless wo
 
 Every individual has a role to play for the betterment of our organisation
 ## Project Conductor
+![Logo](/pictures/conductor.jpg)
 * Bad cop: you represent the company. Other people are just figures on excel that you call “ressource”.
 * Responsible for a project which try to follow the MLMBSC. “Try to” is very important: If the project fails you can blame it on a bad implementation - More on that in the MLMBSC Project conductor training. 
 * Organize meetings: Most of them will be useless but you need to keep your calendar (and the one of other MLMBSC members) full to show that we all are very busy working - More on that in the MLMBSC Project conductor training.
