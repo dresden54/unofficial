@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [Unofficial MLMBSC website (for insiders only)]
+title: Unofficial MLMBSC website (for insiders only)
 ---
 
 # MLMBSC Origin
