@@ -24,6 +24,7 @@ Every individual has a role to play for the betterment of our organisation
 * Deliver useless metric to your company and management: Management like shiny excel graphs. It will show that everything is good -  More on that in the MLMBSC Project conductor training.
 
 ## Facilitator
+<img src="/unofficial/pictures/facilitator.jpg" width="30%">
 * Good cop: You side with the team. You are the cool guy that always brings food - The importance of feeding the team members (and food choices) is part of the MLMBSC Facilitator training.
 * You ensure the team members are motivated enough to do the job. The MLMBSC Facilitator training contains some basic psychological notions to help you.
 * You work in the shadow to make sure that important project tasks are done even if it means asking the working guy in the team to stay late to help finishing  an important task
