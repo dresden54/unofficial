@@ -17,19 +17,20 @@ MLMBSC was founded by MLM enthusiasts eager to profit on the trend of useless wo
 
 Every individual has a role to play for the betterment of our organisation
 ## Project Conductor
-<img src="/unofficial/pictures/conductor.jpg" width="30%">
+<img src="/unofficial/pictures/conductor.jpg" width="50%">
 * Bad cop: you represent the company. Other people are just figures on excel that you call “ressource”.
 * Responsible for a project which try to follow the MLMBSC. “Try to” is very important: If the project fails you can blame it on a bad implementation - More on that in the MLMBSC Project conductor training. 
 * Organize meetings: Most of them will be useless but you need to keep your calendar (and the one of other MLMBSC members) full to show that we all are very busy working - More on that in the MLMBSC Project conductor training.
 * Deliver useless metric to your company and management: Management like shiny excel graphs. It will show that everything is good -  More on that in the MLMBSC Project conductor training.
 
 ## Facilitator
-<img src="/unofficial/pictures/facilitator.jpg" width="30%">
+<img src="/unofficial/pictures/facilitator.jpg" width="50%">
 * Good cop: You side with the team. You are the cool guy that always brings food - The importance of feeding the team members (and food choices) is part of the MLMBSC Facilitator training.
 * You ensure the team members are motivated enough to do the job. The MLMBSC Facilitator training contains some basic psychological notions to help you.
 * You work in the shadow to make sure that important project tasks are done even if it means asking the working guy in the team to stay late to help finishing  an important task
 
 ## Administrator
+<img src="/unofficial/pictures/administrator.jpg" width="50%">
 * This was originally a pseudo role to justify extra budget at implementation time and take blame after the project fails. Several advantage of having a ghost role are explain in various MLMBSC trainings.
 * If you manage to secure a role of “MLMBSC Administrator” in your company you really deserve to be part of our organisation. Tell us how you convince people to give you such a role so we can add it here and maybe really create this role.
 
