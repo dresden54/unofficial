@@ -35,6 +35,7 @@ Every individual has a role to play for the betterment of our organisation
 * If you manage to secure a role of “MLMBSC Administrator” in your company you really deserve to be part of our organisation. Tell us how you convince people to give you such a role so we can add it here and maybe really create this role.
 
 ## Evangelist
+<img src="/unofficial/pictures/coach.jpg" width="50%">
 * You want to make sure people take more about MLMBSC than “game of thrones” (before season 8).
 * Convince other people to implement MLMBSC. Find people that use it in previous team and push them to invite you to present it to their new team.
 * Organise training to grow our numbers.Your trainings have to be loved by people (even if they don't teach anything real). The MLMBSC Evangelist training will teach you how to achieve that.
